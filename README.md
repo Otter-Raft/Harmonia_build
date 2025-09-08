@@ -12,5 +12,5 @@ Choose your platform below:
 
 ---
 
-## All Releases
+## All Releases [here](https://github.com/Otter-Raft/Harmonia_build/releases)
 - v1.9.001: [Windows](https://github.com/Otter-Raft/Harmonia_build/releases/tag/v1.9.001w), [macOS](https://github.com/Otter-Raft/Harmonia_build/releases/tag/v1.9.001m)
