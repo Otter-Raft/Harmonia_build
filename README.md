@@ -7,7 +7,7 @@ Choose your platform below:
 
 ## Latest Version
 
-- [⬇️ Windows Release (v1.9.001)](https://github.com/Otter-Raft/Harmonia_build/releases/tag/v1.9.002w)  
+- [⬇️ Windows Release (v1.9.002)](https://github.com/Otter-Raft/Harmonia_build/releases/tag/v1.9.002w)  
 - [⬇️ macOS Release (v1.9.002)](https://github.com/Otter-Raft/Harmonia_build/releases/tag/v1.9.002m)
 
 ---
